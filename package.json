@@ -1,5 +1,5 @@
 {
-  "name": "axios-observable",
+  "name": "@qccareerschool/axios-observable",
   "version": "1.3.0",
   "description": "make axios return Observable as opposed to Promise",
   "main": "dist/index.js",
